@@ -34,5 +34,6 @@ Navigasi: Menggunakan Navigator.push() untuk berpindah antar halaman.
 
 ![Lampiran HomePage](hp.png)
 ![Lampiran LoginPage](lp.png)
+![Lampiran LoginPage2](lp2.png)
 ![Lampiran SideMenu](sm.png)
 ![Lampiran AboutPage](ap.png)
